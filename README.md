@@ -1,3 +1,7 @@
+<!-- SVENKUNKKA-README-NAV:BEGIN -->
+[中文项目说明](#project-overview-zh) · [English overview](#project-overview-en) · [维护者 X / Maintainer on X](https://x.com/Svenu1s5)
+<!-- SVENKUNKKA-README-NAV:END -->
+
 # 飞书个人 AI 助理构想
 
 > **当前状态：这只是产品构想和公开需求，目前没有已经完成的软件。**
@@ -82,3 +86,30 @@
 ## Brief English Introduction
 
 This repository presents a product idea for a learnable AI messaging agent that assists with repetitive Feishu communication after explicit user authorization. Suggested replies must be reviewed by the user at the initial stage, and any final message must be sent through the user's own Feishu account as the user—not as a bot, custom app, or separate assistant. The project is currently a public proposal only; no working software or official platform capability is claimed.
+
+
+---
+
+<!-- SVENKUNKKA-PROJECT-INFO:BEGIN -->
+
+<a id="project-overview-zh"></a>
+## 中文项目说明
+
+飞书个人 AI 助理的产品构想：在明确授权下帮助处理重复沟通，由用户审阅回复建议，并把已确认答案整理为可追溯的《AI回复Wiki》。目标要求最终消息通过用户自己的飞书身份发送。
+
+**使用入口：** 阅读 README 中的核心目标、学习闭环和安全边界，通过仓库 Issue 讨论需求与实现路径；当前没有安装或运行入口。
+
+**范围说明：** 仅为公开需求，没有已完成的软件、测试结果或官方接口能力承诺；个人账号发送、权限、审计与可撤销性都需要先验证。
+
+<a id="project-overview-en"></a>
+## English project overview
+
+A product proposal for a personal Feishu AI assistant that helps with repetitive communication under explicit authorization, submits suggested replies for review and organizes approved answers in a traceable AI Reply Wiki. Final messages are intended to use the user’s own Feishu identity.
+
+**Getting started:** Read the README goals, learning loop and safety boundaries, and discuss requirements or implementation through repository Issues. There is currently no installation or execution entry point.
+
+**Scope:** This is a public proposal only, with no completed software, test results or official API-capability claims. Personal-account sending, permissions, auditing and revocation must first be validated.
+
+**仓库维护者 / Repository maintainer:** [SvenKunkka](https://github.com/SvenKunkka) · [X / Twitter](https://x.com/Svenu1s5)
+
+<!-- SVENKUNKKA-PROJECT-INFO:END -->
